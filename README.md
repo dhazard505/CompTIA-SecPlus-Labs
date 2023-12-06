@@ -16,5 +16,6 @@ Another aspect of the lab introduced how a threat actor can use social engineeri
 
 <h2>Lab Summary</h2>
 
-In the Capturing Network traffic lab, tcpdump, nmap, and ping were used for grabbing different types of network traffic and redirecting those captures into a file for future interpretation.<br />
-Then the program Wireshark was used for examining those captures an "easier to read" format.
+nmap was the major tool used in this lab to identify what devices are connected to the network.<br />
+Then a banner grabbing exercise was performed to see what specific services are running on the hosts<br />
+and finally, DNS tools were utilized to gather name resolution information.
