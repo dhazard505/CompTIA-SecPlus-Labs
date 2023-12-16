@@ -1,6 +1,6 @@
 <h1>CompTIA Securtity+ Labs</h1>
 
-<h2>Configuring a SOHO Router</h2>
+<h2>Password Auditing</h2>
 
 - ### [Auditing Passwords with a Password Cracking Utility](https://youtu.be/9Uf0wB-Atx4?si=AWNobhbLQ4vN_9k4)
 
@@ -10,7 +10,7 @@ In this lab, You assume the role of a Systems Administrator that is demonstratin
 The john the ripper tool was used in the lab to show how a threat actor, once inside the system, can start gathering information for cracking passwords to gain further access into other systems.<br />
 Another aspect of the lab introduced how a threat actor can use social engineering techniques to make people answer questions without them knowing that they are revealing information that can be used against them. 
 
-<h2>Capturing Network Traffic</h2>
+<h2>Scanning Network Nodes</h2>
 
 - ### [Scanning Network Nodes](https://youtu.be/_gzjUoiMEAo?si=6JgT62g_E6OHMVRp)
 
